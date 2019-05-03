@@ -4,7 +4,7 @@ Some awesome colab ipynb collections.
 
 ## Image Segmentation
 
-1. [cars_segmentation_(camvid).ipynb](./Segmentation/cars_segmentation_(camvid).ipynb)
+1. [cars_segmentation_(camvid).ipynb](./Segmentation/cars_segmentation_(camvid).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lonelygo/awesome-machine-learning-colab-ipynb/blob/master/Segmentation/cars_segmentation_(camvid).ipynb)
 
 [Pytorch Segmentation models](https://github.com/qubvel/segmentation_models.pytorch) is python library with Neural Networks for Image Segmentation based on PyTorch.
 
